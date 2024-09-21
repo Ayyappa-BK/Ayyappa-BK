@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **gaganayyappa2652@gmail.com**
 
-- 📄 Know about my experiences [https://ayyappa-bk.tiiny.site](https://ayyappa-bk.tiiny.site)
+- 📄 Know about my experiences [https://ayyappa-bk.tiiny.site](https://ayyappa-bk.tiiny.site/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
