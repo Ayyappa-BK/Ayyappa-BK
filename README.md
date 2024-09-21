@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/Ayyappa B K](https://www.linkedin.com/in/ayyappa-b-k-1648241b1/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ayyappa B K" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ayyappa-b-k-1648241b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ayyappa B K" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/gaganayyappa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="gaganayyappa" height="30" width="40" /></a>
 <a href="https://instagram.com/gaganayyappa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gaganayyappa" height="30" width="40" /></a>
 </p>
