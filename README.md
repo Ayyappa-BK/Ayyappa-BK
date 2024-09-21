@@ -1,4 +1,4 @@
-![MasterHead](https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/software-development-button.jpg?itok=v_45-X5h)
+
 <h1 align="center">Hi 👋, I'm Ayyappa B K</h1>
 <h3 align="center">Innovative Programmer striving to make the world a more unified and connected place. A creative thinker, adapt in software development and working with various data structures.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
