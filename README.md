@@ -1,9 +1,9 @@
 
-<h1 align="center">Hi 👋, I'm Ayyappa B K</h1>
+<h1 align="center">Hi 👋, I'm Ayyappa Boovadira Kushalappa</h1>
 <h3 align="center">Innovative Programmer striving to make the world a more unified and connected place. A creative thinker, adapt in software development and working with various data structures.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-- 🌱 I’m currently pursuing Master's in **Computer Science** from **Illinois Institute of Technology**
+- 🌱 I’m currently pursuing Master's in **Computer Science** from **Illinois Institute of Technology, Chicago**
 
 - 📫 How to reach me **gaganayyappa2652@gmail.com**
 
