@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently pursuing Master's in **Computer Science** from **Illinois Institute of Technology, Chicago**
 
-- 📫 How to reach me **gaganayyappa2652@gmail.com**
+- 📫 How to reach me **ayyappabk2652@gmail.com**
 
 - 📄 Know about my experiences [https://ayyappa-bk.tiiny.site](https://ayyappa-bk.tiiny.site/)
 
