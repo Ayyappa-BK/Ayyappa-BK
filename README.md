@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ayyappabk2652@gmail.com**
 
-- 📄 Know about my experiences [https://ayyappa-bk.tiiny.site](https://ayyappa-bk.tiiny.site/)
+- 📄 Know about my experiences [My Resume]([https://ayyappa-bk.tiiny.site/](https://ayyappa-portfolio-ten.vercel.app/assets/Ayyappa_Boovadira_Kushalappa-DsLOgy1e.pdf))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
